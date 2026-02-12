@@ -13,3 +13,11 @@ Active branches across all repos. Update when creating, merging, or abandoning b
 | Repo | Branch | Merged To | Goal | Date |
 |------|--------|-----------|------|------|
 | — | — | — | — | — |
+
+## Project Rules
+
+Queried from GitLab API. Re-run check when a cell shows `?` (see instructions in `branches.md`).
+
+| Repo | Default Branch | Push | Merge | Squash | Approvals | Notes |
+|------|---------------|------|-------|--------|-----------|-------|
+| — | — | — | — | — | — | — |
